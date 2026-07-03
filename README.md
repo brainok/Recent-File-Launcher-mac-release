@@ -16,13 +16,7 @@ Recent File Launcher is a macOS menu bar app for quickly finding and opening rec
 
 -> Launch it from Applications
 
-If macOS shows a first-launch security warning:
-
--> Right-click the app in Finder
-
--> Choose `Open`
-
--> Choose `Open` again
+If macOS asks for file or privacy permissions, allow them in System Settings.
 
 ## Version
 
@@ -30,4 +24,4 @@ Latest release: `v2.05`
 
 SHA-256:
 
-`746e13b8926541626f9630fcee33673f19231179000b74d408f2773aa6a5bc29`
+`9e7c9a2a28a8eba0eec5ac81359fb17769ddc943f972682c5daeadd271cec583`

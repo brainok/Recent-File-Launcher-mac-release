@@ -14,7 +14,7 @@ https://github.com/brainok/Recent-File-Launcher-mac-release/releases/latest/down
 2. Drag `Recent File Launcher.app` into `Applications`.
 3. Launch `/Applications/Recent File Launcher.app`.
 
-If macOS shows a first-launch security warning, right-click the app in Finder, choose `Open`, then choose `Open` again.
+If macOS asks for file access or privacy permissions, allow them in System Settings.
 
 ## Key Features
 
@@ -27,4 +27,4 @@ If macOS shows a first-launch security warning, right-click the app in Finder, c
 
 - Latest version: `v2.05`
 - DMG filename: `Recent.File.Launcher.dmg`
-- SHA-256: `746e13b8926541626f9630fcee33673f19231179000b74d408f2773aa6a5bc29`
+- SHA-256: `9e7c9a2a28a8eba0eec5ac81359fb17769ddc943f972682c5daeadd271cec583`
