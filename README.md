@@ -4,7 +4,7 @@ Latest DMG:
 
 -> https://github.com/brainok/Recent-File-Launcher-mac-release/releases/latest/download/Recent.File.Launcher.dmg
 
-Recent File Launcher is a macOS menu bar app for quickly opening recently downloaded or saved files.
+Recent File Launcher is a macOS menu bar app for quickly finding and opening recently used, downloaded, or saved files.
 
 ## Install
 
